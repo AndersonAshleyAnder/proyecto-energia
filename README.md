@@ -1,10 +1,4 @@
----
 
-### ✅ **2. Crear `README.md`**
-Este archivo describe tu proyecto y cómo usarlo.
-
-**Contenido sugerido:**
-```markdown
 # Proyecto Energía ⚡
 Predicción del precio de energía en la Bolsa Nacional usando Dash y Machine Learning.
 
@@ -20,3 +14,10 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 pip install -r requirements.txt
 pip install scikit-learn
 python -m pip install dash plotly pandas
+
+Tecnologia
+T. Python
+B. Panda
+B. Scikit-learn
+V. Ploty
+V. Dash
